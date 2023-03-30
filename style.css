@@ -1,5 +1,6 @@
 body{
-     background : linear-gradient(to right,lightgreen,rgb(255, 255, 255)); background-repeat: no-repeat; background-attachment: fixed;
+     background: linear-gradient(to right,lightgreen,rgb(255, 255, 255)); background-repeat: no-repeat; background-attachment: fixed;
+    
 }
 #Text{ 
     color:rgb(0, 0, 0);
